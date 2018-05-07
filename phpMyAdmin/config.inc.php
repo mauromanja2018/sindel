@@ -40,7 +40,7 @@ $cfg['Servers'][$i]['AllowNoPassword'] = false;
 /**
  * phpMyAdmin configuration storage settings.
  */
-$cfg['ForceSSL'] = true;
+$cfg['ForceSSL'] = false;
 /* User used to manipulate with storage */
 // $cfg['Servers'][$i]['controlhost'] = '';
 // $cfg['Servers'][$i]['controlport'] = '';
